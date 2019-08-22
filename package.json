@@ -1,0 +1,19 @@
+{
+  "name": "component-bankv2",
+  "version": "1.0.0",
+  "description": "My prime Nuxt.js project",
+  "author": "irfanmaulanasam",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "lodash.throttle": "^4.1.1",
+    "nuxt": "^2.0.0"
+  }
+}
